@@ -1,0 +1,74 @@
+body {
+  text-align: center;
+  background-color: #fffae7;
+}
+
+ul {
+  list-style-type: none;
+}
+
+button {
+  size-adjust: 20px;
+  padding: 20px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+center {
+  background-color: beige;
+  margin-top: 100px;
+  padding: 6px 6px;
+  font-family: 'Baloo Bhai 2', cursive;
+}
+.mid {
+  text-align: justify;
+  background-color: #fffae7;
+  border: 2px solid black"
+}
+.foot {
+  background-color: #fffae7;
+  border: 2px solid black; 
+  padding: 10px;
+}
+.btn {
+  border: 2px solid black;
+  background-color: #fffae7;
+  color: black;
+  font-size: 14px;
+
+  cursor: pointer;
+  border-radius: 12px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.btn:hover {
+  background-color: navy;
+  color: white;
+}
+input {
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-left: 250px;
+  padding-right: 250px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-radius: 5px;
+  background-color: #fffae7;
+}
+
+.chatbox {
+  border: 2px solid black;
+  margin-top: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.innerChatBox {
+  border: 2px solid black;
+  background-color: #fffae7;
+}
+
+.navBtn{
+  color: black;
+}
